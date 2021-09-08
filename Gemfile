@@ -16,4 +16,4 @@ gem "sinatra-contrib", "~> 2.0"
 gem "pry", "~> 0.12.2"
 
 # Added at 2019-11-04 11:20:08 +0100 by nielsv:
-gem "better_errors", "~> 2.5"
+gem "better_errors", "~> 2.8"
